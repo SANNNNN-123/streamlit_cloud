@@ -1,0 +1,10 @@
+opencv-python-headless==4.8.1.78
+opencv-contrib-python-headless==4.8.1.78
+streamlit-webrtc>=0.61.3
+twilio~=9.4.3
+streamlit_session_memo
+python-dotenv
+mediapipe
+scipy
+numpy
+pydub
