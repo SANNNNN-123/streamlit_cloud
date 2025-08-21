@@ -33,7 +33,7 @@ logging.basicConfig(level=logging.WARNING)
 # Global variables
 drowsiness_detected = False
 ear_value = 0.0
-audio_handler = AudioFrameHandler(os.path.join("audio", "wake_up.wav"))
+audio_handler = AudioFrameHandler(os.path.join("audio", "music.wav"))
 
 # Twilio configuration
 def setup_twilio():
